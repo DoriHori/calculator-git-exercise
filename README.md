@@ -20,6 +20,7 @@ The tasks are simple programming problems in Java — but the main goal is to **
 1. One of you forks this repository into your GitHub account.
    Use the "_Use this template_" button in the upper right of this page:
    <img width="174" height="119" alt="image" src="https://github.com/user-attachments/assets/8da2d217-96da-406e-bd7e-6c8c164beb46" />
+   
    Then click create a new repository. 
 2. Add your partner as a **collaborator** (Settings → Collaborators).
 3. Both of you clone the repo locally:
