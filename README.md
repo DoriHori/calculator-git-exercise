@@ -33,4 +33,5 @@ The tasks are simple programming problems in Java — but the main goal is to **
    java -cp src Calculator
    ```
 
-Check out the issues in this repository, copy them to your own clone of the project and assign them to each of you - One of you will be Student A and the other will be Student B.
+> [!IMPORTANT]
+> Check out the issues in this repository, copy them to your own clone of the project and assign them to each of you - One of you will be Student A and the other will be Student B.
