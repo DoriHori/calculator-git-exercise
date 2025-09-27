@@ -24,7 +24,7 @@ The tasks are simple programming problems in Java — but the main goal is to **
    git clone <your-fork-url>
    cd git-workshop-calculator
 4. Compile and run the starter program to check it works:
-  ```bash
+   ```bash
    javac src/Calculator.java
    java -cp src Calculator
    ```
